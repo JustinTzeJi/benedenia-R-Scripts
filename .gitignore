@@ -1,12 +1,13 @@
-.csv
-.png
-.jpg
+*.csv
+*.png
+*.jpg
 /compile
 /final
 /goodplotnoout
 /New folder
 .RData
 .Rhistory
-.tiff
-.svg
-.docx
+*.tiff
+*.svg
+*.docx
+*.xlsx
